@@ -1,4 +1,4 @@
 # FirstProject
 Starting a Repo to get a handle on things
 
-Fist attempt at a change.
+First attempt at a change.
